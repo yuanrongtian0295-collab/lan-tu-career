@@ -1,0 +1,30 @@
+{
+  "name": "lan-tu-career",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "assets:party": "powershell -ExecutionPolicy Bypass -File scripts/prepare_party_v2_assets.ps1",
+    "assets:career-footer": "powershell -ExecutionPolicy Bypass -File scripts/prepare_career_footer_assets.ps1",
+    "sync:players": "python scripts/sync_player_database.py",
+    "validate:players": "node scripts/validate_player_database.mjs"
+  },
+  "dependencies": {
+    "framer-motion": "^12.23.12",
+    "lucide-react": "^0.468.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.10",
+    "@types/react-dom": "^19.1.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": "nba-2025-26-v1",
+  "generatedAt": "2026-08-10",
+  "ratingSeason": "2025-26",
+  "rosterBasis": "players active in the 2025-26 box-score snapshot plus the active NBA index",
+  "counts": {
+    "identities": 5955,
+    "currentPlayers": 591,
+    "seasonCards": 27342,
+    "teamsWithCurrentPlayers": 30
+  },
+  "shards": {
+    "1970s": 971,
+    "1980s": 3514,
+    "1990s": 4365,
+    "2000s": 4464,
+    "2010s": 4845,
+    "2020s": 3935,
+    "career": 5248
+  },
+  "sources": [
+    "https://raw.githubusercontent.com/swar/nba_api/master/src/nba_api/stats/library/data.py",
+    "https://raw.githubusercontent.com/djblechn-su/nba-player-team-ids/master/NBA_Player_IDs.csv",
+    "https://raw.githubusercontent.com/fivethirtyeight/nba-player-advanced-metrics/master/nba-data-historical.csv",
+    "https://www.kaggle.com/api/v1/datasets/download/szymonjwiak/nba-traditional",
+    "https://www.kaggle.com/api/v1/datasets/download/flynn28/v2-nba-player-database"
+  ]
+}

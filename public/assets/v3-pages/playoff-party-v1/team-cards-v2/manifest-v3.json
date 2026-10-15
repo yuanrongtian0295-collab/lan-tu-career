@@ -1,0 +1,302 @@
+[
+  {
+    "code": "atl",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/atl-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "bkn",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/bkn-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "bos",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/bos-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "cha",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/cha-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "chi",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/chi-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "cle",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/cle-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "dal",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/dal-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "den",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/den-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "det",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/det-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "gsw",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/gsw-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "hou",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/hou-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "ind",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/ind-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "lac",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/lac-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "lal",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/lal-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "mem",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/mem-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "mia",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/mia-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "mil",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/mil-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "min",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/min-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "nop",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/nop-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "nyk",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/nyk-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "okc",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/okc-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "orl",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/orl-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "phi",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/phi-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "phx",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/phx-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "por",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/por-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "sac",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/sac-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "sas",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/sas-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "tor",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/tor-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "uta",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/uta-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  },
+  {
+    "code": "was",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/was-team-row-v3.png",
+    "scoreSafeZone": {
+      "x": 970,
+      "y": 9,
+      "width": 290,
+      "height": 282
+    }
+  }
+]

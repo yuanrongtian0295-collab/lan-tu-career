@@ -1,0 +1,42 @@
+# Dependencies and build output
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+/vite.config.js
+/vite.config.d.ts
+
+# Local tools, generated diagnostics, and working memory
+/.codex-tools/
+/.codex-worklog/
+/.codex/
+/.agents/
+/.npm-cache/
+/.tmp/
+/tmp/
+/output/
+/artifacts/
+graphify-out/
+__pycache__/
+*.py[cod]
+*.log
+
+# Credentials and local configuration (never commit real secrets)
+.env
+.env.*
+!.env.example
+!.env.sample
+.npmrc
+*.pem
+*.key
+*.pfx
+*.p12
+*.keystore
+
+# OS/editor caches
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+*.swp
+*.swo

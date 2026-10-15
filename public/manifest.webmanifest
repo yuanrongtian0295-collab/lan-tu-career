@@ -1,0 +1,14 @@
+{
+  "name": "篮途 · 王朝人生",
+  "short_name": "篮途",
+  "description": "移动端职业篮球人生文字模拟游戏",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070806",
+  "theme_color": "#070806",
+  "lang": "zh-CN",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

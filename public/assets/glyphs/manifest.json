@@ -1,0 +1,305 @@
+{
+  "digits": {},
+  "titles": {
+    "一": {
+      "codepoint": "U+4E00",
+      "glyph": "u4E00",
+      "image": "/assets/glyphs/titles/u4e00.png"
+    },
+    "中": {
+      "codepoint": "U+4E2D",
+      "glyph": "u4E2D",
+      "image": "/assets/glyphs/titles/u4e2d.png"
+    },
+    "为": {
+      "codepoint": "U+4E3A",
+      "glyph": "u4E3A",
+      "image": "/assets/glyphs/titles/u4e3a.png"
+    },
+    "么": {
+      "codepoint": "U+4E48",
+      "glyph": "u4E48",
+      "image": "/assets/glyphs/titles/u4e48.png"
+    },
+    "了": {
+      "codepoint": "U+4E86",
+      "glyph": "u4E86",
+      "image": "/assets/glyphs/titles/u4e86.png"
+    },
+    "人": {
+      "codepoint": "U+4EBA",
+      "glyph": "u4EBA",
+      "image": "/assets/glyphs/titles/u4eba.png"
+    },
+    "什": {
+      "codepoint": "U+4EC0",
+      "glyph": "u4EC0",
+      "image": "/assets/glyphs/titles/u4ec0.png"
+    },
+    "从": {
+      "codepoint": "U+4ECE",
+      "glyph": "u4ECE",
+      "image": "/assets/glyphs/titles/u4ece.png"
+    },
+    "代": {
+      "codepoint": "U+4EE3",
+      "glyph": "u4EE3",
+      "image": "/assets/glyphs/titles/u4ee3.png"
+    },
+    "以": {
+      "codepoint": "U+4EE5",
+      "glyph": "u4EE5",
+      "image": "/assets/glyphs/titles/u4ee5.png"
+    },
+    "价": {
+      "codepoint": "U+4EF7",
+      "glyph": "u4EF7",
+      "image": "/assets/glyphs/titles/u4ef7.png"
+    },
+    "你": {
+      "codepoint": "U+4F60",
+      "glyph": "u4F60",
+      "image": "/assets/glyphs/titles/u4f60.png"
+    },
+    "决": {
+      "codepoint": "U+51B3",
+      "glyph": "u51B3",
+      "image": "/assets/glyphs/titles/u51b3.png"
+    },
+    "准": {
+      "codepoint": "U+51C6",
+      "glyph": "u51C6",
+      "image": "/assets/glyphs/titles/u51c6.png"
+    },
+    "卡": {
+      "codepoint": "U+5361",
+      "glyph": "u5361",
+      "image": "/assets/glyphs/titles/u5361.png"
+    },
+    "历": {
+      "codepoint": "U+5386",
+      "glyph": "u5386",
+      "image": "/assets/glyphs/titles/u5386.png"
+    },
+    "厘": {
+      "codepoint": "U+5398",
+      "glyph": "u5398",
+      "image": "/assets/glyphs/titles/u5398.png"
+    },
+    "后": {
+      "codepoint": "U+540E",
+      "glyph": "u540E",
+      "image": "/assets/glyphs/titles/u540e.png"
+    },
+    "员": {
+      "codepoint": "U+5458",
+      "glyph": "u5458",
+      "image": "/assets/glyphs/titles/u5458.png"
+    },
+    "场": {
+      "codepoint": "U+573A",
+      "glyph": "u573A",
+      "image": "/assets/glyphs/titles/u573a.png"
+    },
+    "塔": {
+      "codepoint": "U+5854",
+      "glyph": "u5854",
+      "image": "/assets/glyphs/titles/u5854.png"
+    },
+    "备": {
+      "codepoint": "U+5907",
+      "glyph": "u5907",
+      "image": "/assets/glyphs/titles/u5907.png"
+    },
+    "始": {
+      "codepoint": "U+59CB",
+      "glyph": "u59CB",
+      "image": "/assets/glyphs/titles/u59cb.png"
+    },
+    "季": {
+      "codepoint": "U+5B63",
+      "glyph": "u5B63",
+      "image": "/assets/glyphs/titles/u5b63.png"
+    },
+    "安": {
+      "codepoint": "U+5B89",
+      "glyph": "u5B89",
+      "image": "/assets/glyphs/titles/u5b89.png"
+    },
+    "完": {
+      "codepoint": "U+5B8C",
+      "glyph": "u5B8C",
+      "image": "/assets/glyphs/titles/u5b8c.png"
+    },
+    "定": {
+      "codepoint": "U+5B9A",
+      "glyph": "u5B9A",
+      "image": "/assets/glyphs/titles/u5b9a.png"
+    },
+    "室": {
+      "codepoint": "U+5BA4",
+      "glyph": "u5BA4",
+      "image": "/assets/glyphs/titles/u5ba4.png"
+    },
+    "建": {
+      "codepoint": "U+5EFA",
+      "glyph": "u5EFA",
+      "image": "/assets/glyphs/titles/u5efa.png"
+    },
+    "开": {
+      "codepoint": "U+5F00",
+      "glyph": "u5F00",
+      "image": "/assets/glyphs/titles/u5f00.png"
+    },
+    "张": {
+      "codepoint": "U+5F20",
+      "glyph": "u5F20",
+      "image": "/assets/glyphs/titles/u5f20.png"
+    },
+    "心": {
+      "codepoint": "U+5FC3",
+      "glyph": "u5FC3",
+      "image": "/assets/glyphs/titles/u5fc3.png"
+    },
+    "怎": {
+      "codepoint": "U+600E",
+      "glyph": "u600E",
+      "image": "/assets/glyphs/titles/u600e.png"
+    },
+    "成": {
+      "codepoint": "U+6210",
+      "glyph": "u6210",
+      "image": "/assets/glyphs/titles/u6210.png"
+    },
+    "战": {
+      "codepoint": "U+6218",
+      "glyph": "u6218",
+      "image": "/assets/glyphs/titles/u6218.png"
+    },
+    "择": {
+      "codepoint": "U+62E9",
+      "glyph": "u62E9",
+      "image": "/assets/glyphs/titles/u62e9.png"
+    },
+    "日": {
+      "codepoint": "U+65E5",
+      "glyph": "u65E5",
+      "image": "/assets/glyphs/titles/u65e5.png"
+    },
+    "更": {
+      "codepoint": "U+66F4",
+      "glyph": "u66F4",
+      "image": "/assets/glyphs/titles/u66f4.png"
+    },
+    "有": {
+      "codepoint": "U+6709",
+      "glyph": "u6709",
+      "image": "/assets/glyphs/titles/u6709.png"
+    },
+    "术": {
+      "codepoint": "U+672F",
+      "glyph": "u672F",
+      "image": "/assets/glyphs/titles/u672f.png"
+    },
+    "样": {
+      "codepoint": "U+6837",
+      "glyph": "u6837",
+      "image": "/assets/glyphs/titles/u6837.png"
+    },
+    "模": {
+      "codepoint": "U+6A21",
+      "glyph": "u6A21",
+      "image": "/assets/glyphs/titles/u6a21.png"
+    },
+    "每": {
+      "codepoint": "U+6BCF",
+      "glyph": "u6BCF",
+      "image": "/assets/glyphs/titles/u6bcf.png"
+    },
+    "灯": {
+      "codepoint": "U+706F",
+      "glyph": "u706F",
+      "image": "/assets/glyphs/titles/u706f.png"
+    },
+    "球": {
+      "codepoint": "U+7403",
+      "glyph": "u7403",
+      "image": "/assets/glyphs/titles/u7403.png"
+    },
+    "白": {
+      "codepoint": "U+767D",
+      "glyph": "u767D",
+      "image": "/assets/glyphs/titles/u767d.png"
+    },
+    "的": {
+      "codepoint": "U+7684",
+      "glyph": "u7684",
+      "image": "/assets/glyphs/titles/u7684.png"
+    },
+    "盟": {
+      "codepoint": "U+76DF",
+      "glyph": "u76DF",
+      "image": "/assets/glyphs/titles/u76df.png"
+    },
+    "离": {
+      "codepoint": "U+79BB",
+      "glyph": "u79BB",
+      "image": "/assets/glyphs/titles/u79bb.png"
+    },
+    "空": {
+      "codepoint": "U+7A7A",
+      "glyph": "u7A7A",
+      "image": "/assets/glyphs/titles/u7a7a.png"
+    },
+    "篮": {
+      "codepoint": "U+7BEE",
+      "glyph": "u7BEE",
+      "image": "/assets/glyphs/titles/u7bee.png"
+    },
+    "米": {
+      "codepoint": "U+7C73",
+      "glyph": "u7C73",
+      "image": "/assets/glyphs/titles/u7c73.png"
+    },
+    "联": {
+      "codepoint": "U+8054",
+      "glyph": "u8054",
+      "image": "/assets/glyphs/titles/u8054.png"
+    },
+    "衣": {
+      "codepoint": "U+8863",
+      "glyph": "u8863",
+      "image": "/assets/glyphs/titles/u8863.png"
+    },
+    "赛": {
+      "codepoint": "U+8D5B",
+      "glyph": "u8D5B",
+      "image": "/assets/glyphs/titles/u8d5b.png"
+    },
+    "赢": {
+      "codepoint": "U+8D62",
+      "glyph": "u8D62",
+      "image": "/assets/glyphs/titles/u8d62.png"
+    },
+    "选": {
+      "codepoint": "U+9009",
+      "glyph": "u9009",
+      "image": "/assets/glyphs/titles/u9009.png"
+    },
+    "途": {
+      "codepoint": "U+9014",
+      "glyph": "u9014",
+      "image": "/assets/glyphs/titles/u9014.png"
+    },
+    "都": {
+      "codepoint": "U+90FD",
+      "glyph": "u90FD",
+      "image": "/assets/glyphs/titles/u90fd.png"
+    },
+    "静": {
+      "codepoint": "U+9759",
+      "glyph": "u9759",
+      "image": "/assets/glyphs/titles/u9759.png"
+    }
+  }
+}

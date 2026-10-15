@@ -1,0 +1,332 @@
+[
+  {
+    "code": "atl",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/atl-team-row-v4.png",
+    "nativeSplit": 1004,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "bkn",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/bkn-team-row-v4.png",
+    "nativeSplit": 926,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "bos",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/bos-team-row-v4.png",
+    "nativeSplit": 953,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "cha",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/cha-team-row-v4.png",
+    "nativeSplit": 976,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "chi",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/chi-team-row-v4.png",
+    "nativeSplit": 987,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "cle",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/cle-team-row-v4.png",
+    "nativeSplit": 942,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "dal",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/dal-team-row-v4.png",
+    "nativeSplit": 926,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "den",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/den-team-row-v4.png",
+    "nativeSplit": 926,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "det",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/det-team-row-v4.png",
+    "nativeSplit": 963,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "gsw",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/gsw-team-row-v4.png",
+    "nativeSplit": 971,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "hou",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/hou-team-row-v4.png",
+    "nativeSplit": 961,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "ind",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/ind-team-row-v4.png",
+    "nativeSplit": 976,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "lac",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/lac-team-row-v4.png",
+    "nativeSplit": 923,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "lal",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/lal-team-row-v4.png",
+    "nativeSplit": 962,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "mem",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/mem-team-row-v4.png",
+    "nativeSplit": 894,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "mia",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/mia-team-row-v4.png",
+    "nativeSplit": 995,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "mil",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/mil-team-row-v4.png",
+    "nativeSplit": 950,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "min",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/min-team-row-v4.png",
+    "nativeSplit": 909,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "nop",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/nop-team-row-v4.png",
+    "nativeSplit": 921,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "nyk",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/nyk-team-row-v4.png",
+    "nativeSplit": 957,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "okc",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/okc-team-row-v4.png",
+    "nativeSplit": 947,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "orl",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/orl-team-row-v4.png",
+    "nativeSplit": 917,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "phi",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/phi-team-row-v4.png",
+    "nativeSplit": 927,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "phx",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/phx-team-row-v4.png",
+    "nativeSplit": 974,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "por",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/por-team-row-v4.png",
+    "nativeSplit": 1007,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "sac",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/sac-team-row-v4.png",
+    "nativeSplit": 1010,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "sas",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/sas-team-row-v4.png",
+    "nativeSplit": 919,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "tor",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/tor-team-row-v4.png",
+    "nativeSplit": 944,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "uta",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/uta-team-row-v4.png",
+    "nativeSplit": 920,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  },
+  {
+    "code": "was",
+    "asset": "/assets/v3-pages/playoff-party-v1/team-cards-v2/was-team-row-v4.png",
+    "nativeSplit": 911,
+    "rightSafeZone": {
+      "x": 970,
+      "y": 0,
+      "width": 290,
+      "height": 300
+    }
+  }
+]
